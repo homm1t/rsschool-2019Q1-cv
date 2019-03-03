@@ -8,7 +8,7 @@ phone number: 8(029) 277-20-35 |
 :mailbox: svetachevnickolay@gmail.com |
  VK [profile](https://vk.com/n.svetachev) |
 
-### Summary
+## Summary
  I would like to become a good front-end developer. I need this knowledges to develop my own project. But at first i would like to change my profesiional way. There are too many things in any sphere which IT can transform and improve. So i want to be a part of it. 
 
 ### Education
@@ -19,7 +19,7 @@ phone number: 8(029) 277-20-35 |
 #### Activities which are connected to IT 
  * Introduction to SAP analytics solution basen on SAP HANA [About Event](http://fpmi.bsu.by/main.aspx?guid=18021&detail=68873)  - Finished succesfully :white_check_mark:
 
-#### English level 
+##### English level 
 
 * B2 on paper in 2013 
 
@@ -27,5 +27,5 @@ phone number: 8(029) 277-20-35 |
 
 * Practice : Oldenburg modeling united nations 
 
-#### Thank you for your time 
+###### Thank you for your time 
 * More info at [my Russian CV](https://github.com/homm1t/my-russian-cv/blob/master/Svetachev-Nickolay-CV.pdf)
