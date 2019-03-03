@@ -11,12 +11,12 @@ phone number: 8(029) 277-20-35 |
 ### Summary
  I would like to become a good front-end developer. I need this knowledges to develop my own project. But at first i would like to change my profesiional way. There are too many things in any sphere which IT can transform and improve. So i want to be a part of it. 
 
- ### Education
+### Education
  In summer 2018 Ive graduated Belorussian National Technical University at Civil enginering faculty. This allowed me to understand what is construction, how it estimates regulates and  develops. 
 
  I am taking magistracy degree at Belorussian State University at Property management faculty. This will allow me to understand how to manage such assets.
 
- #### Activities which are connected to IT 
+#### Activities which are connected to IT 
  * Introduction to SAP analytics solution basen on SAP HANA [About Event](http://fpmi.bsu.by/main.aspx?guid=18021&detail=68873)  - Finished succesfully :white_check_mark:
 
 #### English level 
