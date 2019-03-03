@@ -17,7 +17,7 @@ phone number: 8(029) 277-20-35 |
  I am taking magistracy degree at Belorussian State University at Property management faculty. This will allow me to understand how to manage such assets.
 
  #### Activities which are connected to IT 
- * Introduction to SAP analytics solution basen on SAP HANA [Details] (http://fpmi.bsu.by/main.aspx?guid=18021&detail=68873) - Finished succesfully :white_check_mark:
+ * Introduction to SAP analytics solution basen on SAP HANA [About Event](http://fpmi.bsu.by/main.aspx?guid=18021&detail=68873)  - Finished succesfully :white_check_mark:
 
 #### English level 
 
