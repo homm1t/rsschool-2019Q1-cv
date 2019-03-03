@@ -5,8 +5,8 @@ My name is Nick Svetachev and this is my first **CV** wiсh was made in bash. To
 Here I will leave my contacts : |
 ------------------------------- |
 phone number: 8(029) 277-20-35 |
-:mailbox:(svetachevnickolay@gmail.com) |
-[Vk profile:]https://vk.com/n.svetachev) |
+:mailbox: svetachevnickolay@gmail.com |
+ VK [profile](https://vk.com/n.svetachev) |
 
 ### Summary
  I would like to become a good front-end developer. I need this knowledges to develop my own project. But at first i would like to change my profesiional way. There are too many things in any sphere which IT can transform and improve. So i want to be a part of it. 
@@ -17,7 +17,7 @@ phone number: 8(029) 277-20-35 |
  I am taking magistracy degree at Belorussian State University at Property management faculty. This will allow me to understand how to manage such assets.
 
  #### Activities which are connected to IT 
- * [Introduction to SAP analytics solution basen on SAP HANA] (http://fpmi.bsu.by/main.aspx?guid=18021&detail=68873) - Finished succesfully :white_check_mark:
+ * Introduction to SAP analytics solution basen on SAP HANA [Details] (http://fpmi.bsu.by/main.aspx?guid=18021&detail=68873) - Finished succesfully :white_check_mark:
 
 #### English level 
 
