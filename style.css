@@ -1,0 +1,223 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}       /* The end of reset properties */
+
+/* BODY */
+.content-container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 1925px;
+
+}
+
+header{
+width: 100%;
+height: 160px;
+background-image: url(./assets/img/body/woods.jpeg);
+    background-repeat:no-repeat;
+    background-size: 100% auto;
+    background-position-x: 100%;
+    background-position-y: 71%;
+    overflow:hidden;
+}
+
+.flag {
+    width: 160px;
+    height: 160px;
+    position: relative; 
+    background:  #5555A7;
+    transform: rotate(270deg);
+}
+    .flag:after {
+        content: ' ';
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 0;
+        height: 0;
+        border-bottom: 40px solid black;
+        border-left: 80px solid transparent;
+        border-right: 80px solid transparent;
+        
+      }
+
+      .flag img{
+          position: absolute;
+          width: 90px;
+          height: 90px;
+          transform: rotate(90deg);
+          top: 20px;
+          left: 40px;
+          opacity: 0.55;
+      }
+      .flag img:hover{
+        opacity: 1;
+        padding-bottom: 0;
+        border-bottom: 3px solid black;
+    }
+        
+
+.round-image{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-image: url(./assets/img/body/rsz-round-img.jpg);
+    background-repeat: no-repeat;
+    background-position-x: 25%;
+    background-position-y: 10%;
+    border: 2px solid #5555A7;
+    position: relative;
+    left: 84%;
+    display: inline-block;
+    bottom: 145px;
+}
+h1{
+    font-family: 'Sniglet', cursive;
+    font-size: 50px;
+    display: inline-block;
+    position: relative;
+    bottom: 153px;
+    left: 111px;
+    color:#c8c8c8; 
+ 
+}
+span {
+    font-family: 'Srisakdi', cursive;
+    font-size: 65px;
+    font-weight: 800;
+    color:#5555A7;
+}
+
+.navigation-container{
+    width: 100%;
+    height: 40px;
+    background-color:#5555A7;
+}
+    .navigation-container li{
+        float: left;
+        
+    }
+    .content-container a{
+        text-decoration: none;
+        font-family: 'Pacifico', cursive;
+        color: #E8E8E8;
+        display: inline-block;
+        margin-left: 140px;
+        margin-top: 10px;
+        font-weight: 500;
+    }
+    .content-container a:hover{
+        color:  aqua;
+    }
+
+.article{
+        width: 100%;
+        height: 400px;
+       
+    }
+        .article p{
+            width: 100%;
+            height: 400px;
+            background-image: url(./assets/img/body/construction2.jpeg);
+            background-repeat: no-repeat;
+            background-position-y: 47%;
+            display: inline-block;
+            font-family: 'Sniglet', cursive;
+            font-size: 25px;
+            text-align: center;
+            padding-top: 55px;
+            color: #FFC125;
+            font-weight: 400;
+            word-spacing: 2px;
+            line-height: 42px;
+            text-shadow: 3px 2px black; 
+            
+
+        }
+.Education{
+    width: 100%;
+    height: 578px;
+    background-image: url(./assets/img/body/EDURoadman.png);
+    background-repeat: no-repeat;
+    background-position-y: 20px;
+    background-size: 100% auto;
+}
+.Activities{
+    width: 100%;
+    height: 673px;
+    background-image: url(./assets/img/body/SAP_test3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+.Languages{
+    width: 100%;
+    height: 87px;
+    background-color:#5555A7;
+}
+    .Languages p{
+        display: inline-block;
+        position: relative;
+        font-family: 'Sniglet', cursive;
+        font-size: 25px;
+        bottom: 30px;
+        left: 120px;
+        text-align: center;
+        color: #FFC125;
+        font-weight: 600;
+        word-spacing: 2px;
+        line-height: 42px;
+        text-shadow: 3px 2px black;        
+    }
+    .Languages img{
+        display: inline-block;
+        position: relative;
+        height: 81px;
+        border: 3px solid #FFC125;
+        left: 230px;
+    }
+
+
+
+
